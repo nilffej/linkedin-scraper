@@ -1,0 +1,5 @@
+__pycache__/
+*.csv
+*PRIVATE
+names_private.txt
+links_private.txt
